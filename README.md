@@ -1,2 +1,2 @@
 # RPG_Battle_Script
-Simple RPG type text-based python battle script.
+A python implementation of a text based/terminal battle game.
