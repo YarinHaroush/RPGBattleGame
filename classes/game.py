@@ -1,5 +1,4 @@
 import random
-import pprint
 
 class bcolors:
     HEADER = '\033[95m'
